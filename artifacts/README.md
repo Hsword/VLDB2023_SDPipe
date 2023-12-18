@@ -1,6 +1,4 @@
-# Artifacts Evaluation of SDPipe [VLDB'23]
-
-This code base is used for Artifact Evaluation of VLDB'23 paper: "[SDPipe: A Semi-Decentralized Framework for Heterogeneity-aware Pipeline-parallel Training](https://www.vldb.org/pvldb/vol16/p2354-miao.pdf)". 
+# SD-PIPE
 
 ## Installation
 1. Clone the repository.

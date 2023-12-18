@@ -1,0 +1,8 @@
+nodes:
+  - host: w2
+    servers: 1
+    workers: 8
+    chief: true
+  - host: w3
+    servers: 0
+    workers: 8

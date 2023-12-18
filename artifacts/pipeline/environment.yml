@@ -1,0 +1,26 @@
+name: pipe
+channels:
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/pytorch/
+dependencies:
+  - python=3.9
+  - pip
+  - tqdm
+  - numpy
+  - pyyaml
+  - psutil
+  - paramiko
+  - boto3
+  - scipy
+  - openmpi=4.0.3
+  - zeromq
+  - libprotobuf
+  - metis
+  - cmake
+  - pybind11
+  - pytorch
+  - torchvision
+  - tensorboard
+  - cudatoolkit=10.2
+  - nccl=2.11
+  - cudnn=7
